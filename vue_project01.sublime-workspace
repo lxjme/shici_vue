@@ -1,0 +1,625 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"v-show"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"src",
+				"srcElement"
+			],
+			[
+				"lis",
+				"listData"
+			],
+			[
+				"get",
+				"getAuthorById"
+			],
+			[
+				"api",
+				"apiParam"
+			],
+			[
+				"info",
+				"infoData"
+			],
+			[
+				"author",
+				"authorInfo"
+			],
+			[
+				"autho",
+				"authorInfo"
+			],
+			[
+				"foo",
+				"footerPage"
+			],
+			[
+				"las",
+				"lastPage2"
+			],
+			[
+				"au",
+				"author_desc"
+			],
+			[
+				"la",
+				"lastPage2"
+			],
+			[
+				"next",
+				"nextPage"
+			],
+			[
+				"nex",
+				"nextPage"
+			],
+			[
+				"pre",
+				"prevPage"
+			],
+			[
+				"aut",
+				"authList"
+			],
+			[
+				"atu",
+				"authorDesc"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"is",
+				"isAuthor"
+			],
+			[
+				"hea",
+				"headerPage\t(index.vue)"
+			],
+			[
+				"header",
+				"headerPage"
+			],
+			[
+				"style",
+				"list-style-type\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 513,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/author/index.vue",
+			"settings":
+			{
+				"buffer_size": 3208,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/components/author/detail.vue",
+			"settings":
+			{
+				"buffer_size": 2963,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/router/index.js",
+			"settings":
+			{
+				"buffer_size": 682,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/statics/vue_project01",
+		"/F/statics/vue_project01/test"
+	],
+	"file_history":
+	[
+		"/F/statics/vue_project01/README.md",
+		"/F/statics/vue_project01/dist/.htaccess",
+		"/F/statics/vue_project01/src/components/author/detail.vue",
+		"/F/statics/vue_project01/src/assets/index.css",
+		"/F/statics/vue_project01/config/dev.env.js",
+		"/F/statics/vue_project01/config/prod.env.js",
+		"/F/statics/vue_project01/src/store/api.js",
+		"/C/Users/LXJ/Desktop/author_detail.html",
+		"/C/Users/LXJ/Desktop/AuthorController.class.php",
+		"/C/Users/LXJ/Desktop/index.js",
+		"/F/statics/vue_project01/src/store/index.js",
+		"/F/statics/vue_project01/package.json",
+		"/F/statics/vue_project01/src/components/headerPage.vue",
+		"/F/statics/vue_project01/src/router/index.js",
+		"/F/statics/vue_project01/src/components/author/middle.vue",
+		"/F/statics/vue_project01/src/components/author/index.vue",
+		"/F/statics/vue_project01/src/components/middle2.vue",
+		"/F/statics/vue_project01/src/components/author.vue",
+		"/F/statics/vue_project01/node_modules/axios/dist/axios.js",
+		"/F/statics/vue_project01/build/webpack.base.conf.js",
+		"/F/statics/vue_project01/static/test.js",
+		"/F/statics/vue_project01/src/axios/index.js",
+		"/E/java_ccm/ccm_content_web/src/main/java/com/dt/ccm/content/controller/ad/AdCarouselController.java",
+		"/F/statics/vue_project01/src/components/middle.vue",
+		"/F/statics/vue_project01/src/components/footerPage.vue",
+		"/F/statics/vue_project01/src/components/index.vue",
+		"/C/Users/LXJ/Desktop/server.php",
+		"/F/statics/vue_project01/src/App.vue",
+		"/C/Users/LXJ/Desktop/index.css",
+		"/E/m_cun/src/active/act_sheying.vue",
+		"/E/m_cun/src/active/act_chungeng.vue",
+		"/E/m_cun/src/news/news_detail.vue",
+		"/E/m_cun/src/js/tools.js",
+		"/E/m_cun/src/router/index.js",
+		"/E/m_cun/src/seller/seller_detail.vue",
+		"/E/m_cun/src/router/router_act.js",
+		"/C/Users/LXJ/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/LXJ/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/E/m_cun/src/house/house_list_er.vue",
+		"/E/m_cun/src/seller/seller_hb_record.vue",
+		"/E/m_cun/src/index/index.vue",
+		"/E/m_cun/vux/index.js",
+		"/E/m_cun/src/store/axios/api.js",
+		"/E/m_cun/src/index/app_use.vue",
+		"/E/m_cun/src/seller/seller_publish_list.vue",
+		"/E/m_cun/config/index.js",
+		"/E/m_dtlw/index.php",
+		"/C/Users/LXJ/.ssh/id_rsa.pub"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"BASE_URL",
+			"assets",
+			"hello",
+			"\"",
+			"zhankai",
+			"img",
+			"res.data",
+			"it.img_url",
+			"headerPage",
+			"header_page",
+			"author_middle",
+			"author_index",
+			"nextPage",
+			"post",
+			"Author",
+			"\"",
+			"api_param",
+			"api_url",
+			"crt_menu",
+			"crt-menu",
+			" (",
+			"author",
+			"footerPage",
+			"author",
+			"headerPage",
+			"header",
+			"footerPage",
+			"footer",
+			"middle",
+			"index",
+			"headerPage",
+			"header",
+			"l('..",
+			"img",
+			".nav dl",
+			"menu_box",
+			"UserApp",
+			"</li>",
+			"user_app"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "F:\\statics\\vue_project01"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "src/components/author/index.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1911,
+								1911
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 273.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/author/detail.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2525,
+								2525
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/router/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								366,
+								366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.491662881006,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"author/deta",
+				"src\\components\\author\\detail.vue"
+			],
+			[
+				"index.css",
+				"src\\assets\\index.css"
+			],
+			[
+				"axios",
+				"node_modules\\axios\\dist\\axios.js"
+			],
+			[
+				"index.cs",
+				"src\\assets\\index.css"
+			],
+			[
+				"router/inde",
+				"src\\router\\index.js"
+			],
+			[
+				"act_chun",
+				"src\\active\\act_chungeng.vue"
+			],
+			[
+				"router_act.",
+				"src\\router\\router_act.js"
+			],
+			[
+				"act_enter",
+				"src\\active\\act_enter.vue"
+			],
+			[
+				"",
+				"src\\router\\index.js"
+			],
+			[
+				"house_list_er",
+				"src\\house\\house_list_er.vue"
+			],
+			[
+				"tools.js",
+				"src\\js\\tools.js"
+			],
+			[
+				"router/index.js",
+				"src\\router\\index.js"
+			],
+			[
+				"seller_de",
+				"src\\seller\\seller_detail.vue"
+			],
+			[
+				"news_detail",
+				"src\\news\\news_detail.vue"
+			],
+			[
+				"app",
+				"src\\index\\app_use.vue"
+			],
+			[
+				"app.vue",
+				"src\\index\\app_use.vue"
+			],
+			[
+				"seller_detail",
+				"src\\seller\\seller_detail.vue"
+			],
+			[
+				"store/ap",
+				"src\\store\\axios\\api.js"
+			],
+			[
+				"seller_publish_list",
+				"src\\seller\\seller_publish_list.vue"
+			],
+			[
+				"src/router/",
+				"src\\router\\index.js"
+			],
+			[
+				"index.js",
+				"config\\index.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\m_cun\\m_cun.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
